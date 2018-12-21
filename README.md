@@ -12,6 +12,6 @@ Ruby required
 * `bundle exec ruby src/app.rb` to start game
 * `bundle exec ruby test/actions_test.rb` to run tests
 
-## Licended
+## Licensed
 
 MIT
